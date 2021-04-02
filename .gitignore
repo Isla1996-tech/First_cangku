@@ -1,0 +1,5 @@
+error.txt
+error.txt.bak
+package.json
+node_modules/
+.gitignore.bak
